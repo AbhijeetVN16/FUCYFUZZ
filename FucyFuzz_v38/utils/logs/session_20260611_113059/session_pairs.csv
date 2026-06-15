@@ -1,0 +1,1 @@
+seq,module,timestamp_tx,tx_arb_id,tx_data_hex,decoded_tx,timestamp_rx,rx_arb_id,rx_data_hex,decoded_rx,latency_ms,anomaly,session_id
